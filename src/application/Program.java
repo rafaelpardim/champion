@@ -23,7 +23,7 @@ public class Program {
 		System.out.println();
 		Champion A = new Champion(name, life, attack, armor);
 			
-		System.out.println("Digite os dados do primeiro campeao:");
+		System.out.println("Digite os dados do segundo campeao:");
 		System.out.print("Nome: ");
 		name = sc.nextLine();
 		System.out.print("Vida inicial: ");
